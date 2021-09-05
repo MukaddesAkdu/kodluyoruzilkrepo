@@ -33,4 +33,3 @@ print(isim[0])
 bosListe = []
 
 #devops = yazılım geliştirme süreç yönetimi için kullanılan kısa isimlendirmedir. developer operations
-# dsadw
